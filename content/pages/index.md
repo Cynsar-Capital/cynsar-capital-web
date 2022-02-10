@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Elevating conscious one at a time.
-    subtitle: Fresh. Better. Faster.
+    subtitle: Forming a pool of capital that invest in projects that
     actions:
       - type: Button
         label: Get Started
