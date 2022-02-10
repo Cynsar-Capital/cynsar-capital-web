@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Elevating conscious one at a time.
-    subtitle: Forming a pool of capital that invest in projects that
+    subtitle: Invest in projects through
     actions:
       - type: Button
         label: Get Started
