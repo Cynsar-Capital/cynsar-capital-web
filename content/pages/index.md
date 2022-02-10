@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Elevating conscious one at a time.
+    title: Elevating conscience one at a time.
     subtitle: Invest in projects through
     actions:
       - type: Button
