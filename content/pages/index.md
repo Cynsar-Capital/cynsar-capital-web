@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Elevating conscience one at a time.
-    subtitle: Invest in projects through
+    subtitle: Invest in people that are co-creating for equitable world
     actions:
       - type: Button
         label: Get Started
