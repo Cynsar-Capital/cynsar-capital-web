@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Invest for change
+    title: Elevating conscious one at a time.
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
