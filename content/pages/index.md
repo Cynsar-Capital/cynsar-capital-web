@@ -149,7 +149,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Re-thinking businesses
+    title: Re-thinking
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
