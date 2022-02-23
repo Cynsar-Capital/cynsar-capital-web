@@ -67,7 +67,7 @@ sections:
       clear, Climate change, Data Privacy, Health, and Agriculture is our top
       priority.
     name: Saransh Sharma
-    title: Head chef at Parks
+    title: Partner
     styles:
       self:
         height: auto
