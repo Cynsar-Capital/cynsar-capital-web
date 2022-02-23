@@ -61,11 +61,11 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      We are an automated governed system based Investment firm investing seed,
-      growth, and working capital for Tech. Our playbook is different we invest
-      in ideas and philosophies that are open, simple, and sustainable. Our
-      manifesto is clear, Climate change, Data Privacy, Health, and Agriculture
-      is our top priority.
+      We are an automated governed investment firm investing seed, growth, and
+      working capital for Tech. Our playbook is different we invest in ideas and
+      philosophies that are open, simple, and sustainable. Our manifesto is
+      clear, Climate change, Data Privacy, Health, and Agriculture is our top
+      priority.
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
