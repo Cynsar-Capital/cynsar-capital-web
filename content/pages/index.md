@@ -191,8 +191,8 @@ sections:
     colors: colors-d
     title: Want to invest with us?
     text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+      We will connect you with one of our partner in your respective geography
+      that will guide you the next steps.
     form:
       type: FormBlock
       elementId: sign-up-form
