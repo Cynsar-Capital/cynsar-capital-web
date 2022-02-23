@@ -66,7 +66,7 @@ sections:
       philosophies that are open, simple, and sustainable. Our manifesto is
       clear, Climate change, Data Privacy, Health, and Agriculture is our top
       priority.
-    name: Isabelle Parks
+    name: Saransh Sharma
     title: Head chef at Parks
     styles:
       self:
