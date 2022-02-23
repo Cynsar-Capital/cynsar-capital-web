@@ -155,7 +155,7 @@ sections:
       and are observing sustainable goals. 
     actions:
       - type: Link
-        label: Join adventure
+        label: Learn more
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight
