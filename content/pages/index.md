@@ -149,7 +149,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Time to re-think and
+    title: We stand with business
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
