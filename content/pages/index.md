@@ -149,7 +149,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: New forms and models of investments
+    title: New forms of investments
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
