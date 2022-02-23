@@ -150,8 +150,9 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: New forms of investments
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
+    text: >
+      Investing in people ,  ideas and projects that are fundamentally different
+      and are observing sustainable goals. 
     actions:
       - type: Link
         label: Join adventure
