@@ -1,5 +1,5 @@
 ---
-title: Financial
+title: Financial Technology
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
