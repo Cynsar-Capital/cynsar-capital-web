@@ -103,6 +103,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Collaboration
       - type: FeaturedItem
         title: Smarter
         text: >-
