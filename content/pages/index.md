@@ -61,11 +61,10 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      We are an automated governed investment firm investing seed, growth, and
-      working capital for Tech. Our playbook is different we invest in ideas and
-      philosophies that are open, simple, and sustainable. Our manifesto is
+      Neutral tech investment firm. Our playbook is different we invest in ideas
+      and philosophies that are open, simple, and sustainable. Our manifesto is
       clear, Climate change, Data Privacy, Health, and Agriculture is our top
-      priority.
+      priority. #BuildingOpenSocialCapital
     name: Saransh Sharma
     title: Partner
     styles:
