@@ -103,6 +103,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: red
       - type: FeaturedItem
         title: Smarter
         text: >-
