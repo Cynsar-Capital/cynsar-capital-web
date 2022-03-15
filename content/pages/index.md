@@ -85,7 +85,7 @@ sections:
         textAlign: center
   - colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Ok how does this work?
     subtitle: ''
     items:
       - type: FeaturedItem
