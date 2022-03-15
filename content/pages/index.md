@@ -89,10 +89,22 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Our partners collaborate on ground with projects and ideas and help in
+          non profit setup to remove important hurdles and battle test projects
+          in communities around the globe. Partners take extra care in removing
+          initial hurdles and help validate the ideas on grassroots.
+
+
+          *   Helps validate ideas and projects 
+
+
+          *   Extract open knowledge for all parties involved.
+
+
+          *   Tech is always open and is protected with various attributions and
+          licenses.
+
         actions:
           - type: Button
             label: Learn more
