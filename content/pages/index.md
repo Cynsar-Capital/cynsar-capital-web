@@ -103,7 +103,6 @@ sections:
         styles:
           self:
             textAlign: left
-        title: 'Credit '
       - type: FeaturedItem
         title: Smarter
         text: >-
