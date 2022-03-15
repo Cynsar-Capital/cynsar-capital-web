@@ -154,7 +154,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Impact fund for t
+    title: Impact fund for the
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
