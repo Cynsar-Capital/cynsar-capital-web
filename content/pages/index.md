@@ -154,7 +154,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: New forms of credit cycle
+    title: Impact fund for t
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
