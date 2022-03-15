@@ -153,7 +153,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Fund for the impact
+    title: What is neutral tech?
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
