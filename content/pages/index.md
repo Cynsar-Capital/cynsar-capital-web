@@ -103,7 +103,6 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Iden
       - type: FeaturedItem
         title: Smarter
         text: >-
