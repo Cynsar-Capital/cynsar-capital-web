@@ -131,7 +131,9 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    text: |+
+      ## [Respond us on Second.Exchance](https://www.stackbit.com/)
+
     styles:
       self:
         height: auto
