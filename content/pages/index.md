@@ -83,7 +83,7 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - colors: colors-c
+  - colors: colors-d
     elementId: ''
     title: Ok how does this work?
     subtitle: ''
