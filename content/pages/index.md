@@ -221,7 +221,7 @@ sections:
     colors: colors-e
     variant: variant-a
     text: |+
-      ## [Respond us on Second.Exchance](https://www.stackbit.com/)
+      ## Find us on [Second.Exchange](https://second.exchange)
 
     styles:
       self:
