@@ -272,7 +272,7 @@ sections:
     actions:
       - type: Link
         label: Learn more
-        url: 'https://www.stackbit.com/'
+        url: /what-is-neutral-tech/
         showIcon: true
         icon: arrowRight
     backgroundImage:
