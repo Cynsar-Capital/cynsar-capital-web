@@ -115,10 +115,22 @@ sections:
         title: Collaboration
       - type: FeaturedItem
         title: Initiation
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          We aim to initiate them with our playbook that loosely defines certain
+          ideas and philosophy and litmus test that provides introspections to
+          the businesses in this step
+
+
+          *   A form of investment is provided to the parties involved 
+
+
+          <!---->
+
+
+          *   Community testing and governance setup
+
+
+
         actions:
           - type: Button
             label: Learn more
