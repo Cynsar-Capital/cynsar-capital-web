@@ -116,20 +116,18 @@ sections:
       - type: FeaturedItem
         title: Initiation
         text: >+
-          We aim to initiate them with our playbook that loosely defines certain
-          ideas and philosophy and litmus test that provides introspections to
-          the businesses in this step
+          We aim to initiate businesses with our playbook that loosely defines
+          certain ideas and philosophy with a litmus test that provides
+          introspections to the businesses in this step
 
 
-          *   A form of investment is provided to the parties involved 
+          *   A form of investment is provided to the parties involved
 
 
           <!---->
 
 
-          *   Community testing and governance setup
-
-
+          *   e-Governance setup and team formation  
 
         actions:
           - type: Button
