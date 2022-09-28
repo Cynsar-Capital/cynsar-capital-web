@@ -52,9 +52,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: >
+      “Before we build products we need to begin with identifying ourselves  ,
+      our life is a reflection of what we achieve externally.”
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
