@@ -122,8 +122,10 @@ sections:
     colors: colors-d
     title: Join our friendship?
     text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+      We will notify you every time when we are in your neighborhood so that we
+      can meet in person and let us know
+
+       
     form:
       type: FormBlock
       elementId: sign-up-form
