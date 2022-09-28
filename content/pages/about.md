@@ -53,8 +53,8 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >
-      “Before we build products we need to begin with identifying ourselves  ,
-      our life is a reflection of what we achieve externally.”
+      “We want to work with people rather processes and product, we want to see
+      how tech is a tool not the other way around”
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
