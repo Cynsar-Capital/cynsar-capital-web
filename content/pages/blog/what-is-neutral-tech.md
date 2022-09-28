@@ -58,7 +58,11 @@ Technology as a tool has pre and post-actions subject to moral standpoints.
 
 4.  Tech creators have a role in moral responsibility
 
-Though research argues that the use of technology is a neutral influence on nursing practice, technology is discussed to be more pervasive and impact on politics, of course, the values of individuals, nursing practice and decision making than many nurses identify. Therefore an adequate understanding of the relationship between technology and nursing practice must address the need to be more critical of the belief that technology is a neutral object and originates from being cognisant of arguments that both support and oppose the assertion.
+> Though research argues that the use of technology is a neutral influence on nursing practice, technology is discussed to be more pervasive and impact on politics, of course, the values of individuals, nursing practice and decision making than many nurses identify. Therefore an adequate understanding of the relationship between technology and nursing practice must address the need to be more critical of the belief that technology is a neutral object and originates from being cognisant of arguments that both support and oppose the assertion.  ---  
+>
+> [Reference](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2648.1997.1997026126.x)
+>
+>   
 
 The axioms defined could they work? 
 
