@@ -272,7 +272,7 @@ sections:
     actions:
       - type: Link
         label: Learn more
-        url: blog/what-is-neutral-tech/
+        url: /blog/what-is-neutral-tech/
         showIcon: true
         icon: arrowRight
     backgroundImage:
