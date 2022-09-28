@@ -62,9 +62,8 @@ sections:
     colors: colors-d
     quote: >
       Neutral tech investment firm. Our playbook is different we invest in ideas
-      and philosophies that are open, simple, and sustainable. Our manifesto is
-      clear, Climate change, Data Privacy, Health, and Agriculture is our top
-      priority. #BuildingOpenSocialCapital
+      and philosophies that are open, simple, and sustainable.
+      #BuildingOpenSocialCapital
     name: Saransh Sharma
     title: Partner
     styles:
