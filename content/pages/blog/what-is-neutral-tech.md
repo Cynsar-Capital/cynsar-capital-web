@@ -22,12 +22,53 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+What is neutral tech? some thoughts on the tech neutrality.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Technology leads to a neutral change. If it does not happen, then technology is not neutral. We can assume the creators of the technology is also not neutral.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+To understand better what neutral technology is, we try to define and For now, we assume these axioms 
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+1.  Equitable 
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+2.  Fair 
+
+3.  Transparent
+
+In our case, the technology that brings or promotes the change is equitable, fair and transparent. We are discussing the verifiable modifications, for instance, in the case of Facebook producing wrong information and creating unfair or less impartial societal conditions. 
+
+Technology is hard to define. To begin with, what is technology? We can say 
+
+1.  Anything that provides an application or an output, so a coffee cup is a technology in that sense 
+
+2.  Another aspect of technology is how we use them. That makes a technology subject to morality.
+
+3.  Technology is not restricted to the human domain only.
+
+
+One example is an Internal Combustion Engine that utilizes fossil fuels incompatible with decarbonization. However, engines are in practice right now.
+
+Law provides "good", and arriving at "good" is objectively hard and depends on quantitative methods, which sometimes lack results like in our case above with engines.
+
+Technology as a tool has pre and post-actions subject to moral standpoints.
+
+1.  Using engines for other use than motor cars
+
+2.  There is a natural drift towards the actualization of the power 
+
+3.  Most technology hangs on the usage by the user and how they use a specific "technology."
+
+4.  Tech creators have a role in moral responsibility
+
+Though research argues that the use of technology is a neutral influence on nursing practice, technology is discussed to be more pervasive and impact on politics, of course, the values of individuals, nursing practice and decision making than many nurses identify. Therefore an adequate understanding of the relationship between technology and nursing practice must address the need to be more critical of the belief that technology is a neutral object and originates from being cognisant of arguments that both support and oppose the assertion.
+
+The axioms defined could they work? 
+
+How can an Internal Combustion Engine be equitable, fair and transparent? The one who made it could attain or watch these moral values, and the result might have been different.
+
+But there are loopholes in the above argument. The creator is hiding behind the creation. Regardless of the creator's intention, the users using the machine's programs will be creative enough to derive out use cases that the creator had not thought. However, there are limited domains where we can utilize technology applications like we cannot use a telescope to watch a movie. The application is an intrinsic part of technology.
+
+As Mark Twain puts it together, if you have the hammer on your end, everything else looks like a nail. No matter what we do, our freedom is severely limited by the technological environment. Someone applying for a visa from India through technical identification is subject to human bias encoded in technology. No one anticipated that world that seems so close, if far dangerous, with these marvellous inventions like with Internal Combustion Engine, there are annual deaths from the same machine that powers the automobile.
+
+We cannot be sure what consequences our Innovation can bring to the world. Hence, the creator does not even know what biases the creator encodes in the technology they are deriving. However, complexity arises when competition arises where you can ban a particular technology, and that technology is available in different geographies, like how we are tackling Climate mitigation.
+
+Can tech be neutral? We will discuss this thoroughly in future research and see about findings and share these findings.  If you have some ideas let us know.
