@@ -124,16 +124,14 @@ sections:
           *   A form of investment is provided to the parties involved
 
 
-          <!---->
 
 
           *   e-Governance setup and team formation
 
 
-          \<!---->
 
 
-          *   Training in building open social capital
+          *   Training in building open social capital products
 
         actions:
           - type: Button
