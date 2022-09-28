@@ -89,13 +89,11 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          Our partners collaborate on ground with projects and ideas and help in
-          non profit setup to remove important hurdles and battle test projects
-          in communities around the globe. Partners take extra care in removing
-          initial hurdles and help validate the ideas on grassroots.
+          Our partners collaborate on ground with projects and ideas on ground
+          that potentially discover routes of sustainability.
 
 
-          *   Helps validate ideas and projects 
+          *   Helps validate ideas and projects
 
 
           *   Extract open knowledge for all parties involved.
