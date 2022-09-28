@@ -148,20 +148,17 @@ sections:
         text: >+
           A detached oriented process that provides ample time to teams and
           businesses for building products and testing hypothesis in
-          co-ordinated  groups.
+          co-ordinated  groups. This means business are focused only on what
+          they want to achieve with commnuities.
 
 
-          *   Product market fit testing 
-
-
+          *   Product market fit testing
 
 
           *   Support for further mentoring and expansion
 
 
-
-
-          *   Community expansion 
+          *   Community expansion
 
         actions:
           - type: Button
