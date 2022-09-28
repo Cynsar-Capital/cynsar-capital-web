@@ -26,7 +26,7 @@ What is neutral tech? some thoughts on the tech neutrality.
 
 Technology leads to a neutral change. If it does not happen, then technology is not neutral. We can assume the creators of the technology is also not neutral.
 
-To understand better what neutral technology is, we try to define and For now, we assume these axioms 
+To understand better what neutral technology could be according to me, I try to define and For now, we assume these axioms 
 
 1.  Equitable 
 
@@ -43,7 +43,6 @@ Technology is hard to define. To begin with, what is technology? We can say 
 2.  Another aspect of technology is how we use them. That makes a technology subject to morality.
 
 3.  Technology is not restricted to the human domain only.
-
 
 One example is an Internal Combustion Engine that utilizes fossil fuels incompatible with decarbonization. However, engines are in practice right now.
 
