@@ -19,13 +19,16 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About our business
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: >
+      For us finding a neutral product fit is a life style. The connection to
+      the open humans and businesses is what makes us friends, and what makes us
+      a family and it what makes us a business.
 
 
       We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+      life has to offer, while  keeping our products better and optimised for
+      human empathy that may bring back equitable , fair and transparency in the
+      human ecosystem.
     styles:
       self:
         height: auto
