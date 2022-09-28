@@ -129,6 +129,10 @@ sections:
 
           *   e-Governance setup and team formation
 
+
+          \<!---->
+
+
           *   Training in building open social capital
 
         actions:
