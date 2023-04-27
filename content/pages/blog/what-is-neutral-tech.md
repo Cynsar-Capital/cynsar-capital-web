@@ -22,56 +22,26 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-What is neutral tech? some thoughts on the tech neutrality.
+What is neutral tech? Some thoughts on technology neutrality.
+Technology ideally leads to a neutral change, but if it does not happen, then technology is not neutral. Consequently, we can assume the creators of technology are also not neutral. To better understand what neutral technology could be, we can consider these axioms:
 
-Technology leads to a neutral change. If it does not happen, then technology is not neutral. We can assume the creators of the technology is also not neutral.
+1.  Equitable
 
-To understand better what neutral technology could be according to me, I try to define and For now, we assume these axioms 
-
-1.  Equitable 
-
-2.  Fair 
+2.  Fair
 
 3.  Transparent
 
-In our case, the technology that brings or promotes the change is equitable, fair and transparent. We are discussing the verifiable modifications, for instance, in the case of Facebook producing wrong information and creating unfair or less impartial societal conditions. 
+In our case, the technology that brings or promotes change should be equitable, fair, and transparent. For instance, consider the case of social media platforms producing misinformation and creating unfair or biased societal conditions. Defining technology is challenging, but generally, it can be anything that provides an application or an output. The way we use technology subjects it to morality, and it is not restricted to the human domain only.
 
-Technology is hard to define. To begin with, what is technology? We can say 
+One example is the Internal Combustion Engine that utilizes fossil fuels, which are incompatible with decarbonization. Such engines are in practice today, despite their adverse environmental impacts. The concept of "good" technology is subjective and relies on quantitative methods that sometimes lack results.
 
-1.  Anything that provides an application or an output, so a coffee cup is a technology in that sense 
+Technology, as a tool, has pre and post-actions subject to moral standpoints. Most technology depends on the user and how they use it. Tech creators have a role in moral responsibility, but there are loopholes in this argument. The creator might be hiding behind the creation, and users can derive use cases the creator had not anticipated.
 
-2.  Another aspect of technology is how we use them. That makes a technology subject to morality.
+As Mark Twain stated, "if you have the hammer on your end, everything else looks like a nail." Our freedom is severely limited by the technological environment. For example, someone applying for a visa from India through technical identification is subject to human bias encoded in technology. No one anticipated the dangers these marvelous inventions could bring, such as annual deaths resulting from the Internal Combustion Engine that powers automobiles.
 
-3.  Technology is not restricted to the human domain only.
+We cannot be sure of the consequences of our innovations. Hence, creators may not even know what biases they encode in the technology they develop. Complexity arises when competition emerges, where banning a particular technology is difficult if that technology is available in different geographies, similar to how we tackle climate mitigation.
 
-One example is an Internal Combustion Engine that utilizes fossil fuels incompatible with decarbonization. However, engines are in practice right now.
+To create a more responsible and sustainable technological landscape, incorporating the Sustainable Development Goals (SDGs) into the oversight framework can be a crucial step. By aligning technological advancements with these global goals, we can harness their potential to drive sustainable development while acknowledging that technology will never be entirely neutral due to inherent human values and intentions.
 
-Law provides "good", and arriving at "good" is objectively hard and depends on quantitative methods, which sometimes lack results like in our case above with engines.
+Can tech be neutral? We will discuss this thoroughly in future research, share findings, and invite ideas from various stakeholders. The integration of ethical guidelines, transparency, accountability, and diverse perspectives can help us strive for a technological landscape that is more responsible, ethical, and beneficial for all, while understanding that no technology will ever be completely neutral.
 
-Technology as a tool has pre and post-actions subject to moral standpoints.
-
-1.  Using engines for other use than motor cars
-
-2.  There is a natural drift towards the actualization of the power 
-
-3.  Most technology hangs on the usage by the user and how they use a specific "technology."
-
-4.  Tech creators have a role in moral responsibility
-
-> Though research argues that the use of technology is a neutral influence on nursing practice, technology is discussed to be more pervasive and impact on politics, of course, the values of individuals, nursing practice and decision making than many nurses identify. Therefore an adequate understanding of the relationship between technology and nursing practice must address the need to be more critical of the belief that technology is a neutral object and originates from being cognisant of arguments that both support and oppose the assertion.  ---  
->
-> [Reference](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2648.1997.1997026126.x)
->
->   
-
-The axioms defined could they work? 
-
-How can an Internal Combustion Engine be equitable, fair and transparent? The one who made it could attain or watch these moral values, and the result might have been different.
-
-But there are loopholes in the above argument. The creator is hiding behind the creation. Regardless of the creator's intention, the users using the machine's programs will be creative enough to derive out use cases that the creator had not thought. However, there are limited domains where we can utilize technology applications like we cannot use a telescope to watch a movie. The application is an intrinsic part of technology.
-
-As Mark Twain puts it together, if you have the hammer on your end, everything else looks like a nail. No matter what we do, our freedom is severely limited by the technological environment. Someone applying for a visa from India through technical identification is subject to human bias encoded in technology. No one anticipated that world that seems so close, if far dangerous, with these marvellous inventions like with Internal Combustion Engine, there are annual deaths from the same machine that powers the automobile.
-
-We cannot be sure what consequences our Innovation can bring to the world. Hence, the creator does not even know what biases the creator encodes in the technology they are deriving. However, complexity arises when competition arises where you can ban a particular technology, and that technology is available in different geographies, like how we are tackling Climate mitigation.
-
-Can tech be neutral? We will discuss this thoroughly in future research and see about findings and share these findings.  If you have some ideas let us know.
