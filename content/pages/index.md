@@ -63,7 +63,7 @@ sections:
     quote: >
       Neutral tech investment firm. Our playbook is different we invest in ideas
       and philosophies that are open, simple, and sustainable.
-      #BuildingOpenSocialCapital
+      #BuildingOpenSocialCapital..[read more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
     styles:
