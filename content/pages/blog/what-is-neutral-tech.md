@@ -23,6 +23,7 @@ excerpt: >-
   ideally leads to a neutral change, but if it does not happen, then technology
   is not neutral. Consequently, we can assume the creators of technology are
   also not neutral
+author: content/data/team/person-in8zsuvag.json
 ---
 What is neutral tech? Some thoughts on technology neutrality.
 Technology ideally leads to a neutral change, but if it does not happen, then technology is not neutral. Consequently, we can assume the creators of technology are also not neutral. To better understand what neutral technology could be, we can consider these axioms:
