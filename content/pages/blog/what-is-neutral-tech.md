@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: What is neutral technolo?
+title: What is neutral technology?
 colors: colors-d
 date: '2022-09-28'
 featuredImage:
