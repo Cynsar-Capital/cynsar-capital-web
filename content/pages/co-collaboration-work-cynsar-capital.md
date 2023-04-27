@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an empty page
+    title: Methods that are simple and
     text: >
       Discover a New Way to Invest with Our Neutral Tech Investment Firm
 
