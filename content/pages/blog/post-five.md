@@ -2,7 +2,7 @@
 title: Climate Finance and its implications
 layout: PostLayout
 date: '2021-12-02'
-excerpt: ' finance has the potential to address behavioral issues that contribute to environmental degradation and exacerbate climate change. By strategically allocating financial resources to projects, policies, and technologies focused on mitigating climate impacts and fostering sustainable development, climate finance can stimulate behavioral shifts that result in lasting environmental benefits.'
+excerpt: ' finance has the potential to address behavioral issues that contribute to environmental degradation and exacerbate climate change.'
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
