@@ -136,8 +136,11 @@ sections:
           Once the initiation phase is completed, our neutral tech investment
           firm continues to work closely with businesses, ensuring they remain
           focused on their goals and committed to creating positive societal
-          impact. We provide comprehensive support to help businesses refine
-          their products, test their hypotheses, and expand their reach.
+          impact. 
+
+
+          We provide comprehensive support to help businesses refine their
+          products, test their hypotheses, and expand their reach.
         actions:
           - type: Button
             label: Learn more
