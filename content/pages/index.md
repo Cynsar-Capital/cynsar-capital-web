@@ -117,7 +117,8 @@ sections:
           fairness, and transparency. Once a collaboration is established, we
           continue to support these businesses by providing them with the
           necessary resources and guidance to thrive and make a positive
-          societal impact.
+          societal impact. Here's how we help businesses succeed after
+          investing.
         actions:
           - type: Button
             label: Learn more
