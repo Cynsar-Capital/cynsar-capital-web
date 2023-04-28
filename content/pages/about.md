@@ -20,15 +20,20 @@ sections:
     variant: variant-a
     title: About our business
     text: >
-      For us finding a neutral product fit is a life style. The connection to
-      the open humans and businesses is what makes us friends, and what makes us
-      a family and it what makes us a business.
+      At our organization, the pursuit of finding a neutral product fit is more
+      than just a business goal; it's a way of life. We foster strong
+      connections with open-minded individuals and businesses, creating bonds
+      that go beyond professional relationships, evolving into friendships and a
+      sense of family. Our shared vision for a better, more sustainable
+      lifestyle drives us to develop products that are not only efficient but
+      also rooted in empathy and compassion.
 
 
-      We believe there’s a better, more sustainable way to live out of what the
-      life has to offer, while  keeping our products better and optimised for
-      human empathy that may bring back equitable , fair and transparency in the
-      human ecosystem.
+      We are committed to cultivating a more equitable, fair, and transparent
+      human ecosystem by leveraging the best that life has to offer. By
+      combining innovation, sustainability, and an unwavering focus on
+      human-centric design, we believe we can redefine the way we live and work,
+      ultimately contributing to a brighter and more inclusive future for all.
     styles:
       self:
         height: auto
