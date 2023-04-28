@@ -114,15 +114,12 @@ sections:
         text: >
           At our neutral tech investment firm, we take pride in fostering strong
           partnerships with businesses that share our values of equity,
-          fairness, and transparency. 
+          fairness, and transparency.
 
 
           Once a collaboration is established, we continue to support these
           businesses by providing them with the necessary resources and guidance
-          to thrive and make a positive societal impact. By offering these
-          post-investment support services, we aim to nurture long-term
-          partnerships with businesses that drive equitable, fair, and
-          transparent technological advancements
+          to thrive and make a positive societal impact. 
         actions:
           - type: Button
             label: Learn more
