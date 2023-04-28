@@ -3,8 +3,8 @@ title: Climate Finance and its implications
 layout: PostLayout
 date: '2021-12-02'
 excerpt: >-
-  Climate finance has the potential to address behavioral issues that contribute
-  to environmental degradation and exacerbate climate change.
+  Climate finance has the potential to address behavioural issues that
+  contribute to environmental degradation and exacerbate climate change.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
