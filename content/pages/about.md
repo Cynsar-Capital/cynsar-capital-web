@@ -58,9 +58,9 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >
-      “"We strive to collaborate with individuals rather than solely focusing on
+      "We strive to collaborate with individuals rather than solely focusing on
       processes and products, emphasizing the importance of viewing technology
-      as a tool to serve people instead of dictating our lives."”
+      as a tool to serve people instead of dictating our lives."
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
