@@ -58,8 +58,9 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >
-      “We want to work with people rather processes and product, we want to see
-      how tech is a tool not the other way around”
+      “"We strive to collaborate with individuals rather than solely focusing on
+      processes and products, emphasizing the importance of viewing technology
+      as a tool to serve people instead of dictating our lives."”
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
