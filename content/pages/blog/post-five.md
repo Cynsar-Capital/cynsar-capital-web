@@ -62,6 +62,7 @@ metaDescription: >-
   nature
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
+author: content/data/team/desmond-eagle.json
 ---
 Climate finance has the potential to address behavioral issues that contribute to environmental degradation and exacerbate climate change. By strategically allocating financial resources to projects, policies, and technologies focused on mitigating climate impacts and fostering sustainable development, climate finance can stimulate behavioral shifts that result in lasting environmental benefits.
 
