@@ -111,24 +111,13 @@ sections:
         title: Collaboration
       - type: FeaturedItem
         title: Initiation
-        text: >+
-          We aim to initiate businesses with our playbook that loosely defines
-          certain ideas and philosophy with a litmus test that provides
-          introspections to the businesses in this step
-
-
-          *   A form of investment is provided to the parties involved
-
-
-
-
-          *   e-Governance setup and team formation
-
-
-
-
-          *   Training in building open social capital products
-
+        text: >
+          At our neutral tech investment firm, we take pride in fostering strong
+          partnerships with businesses that share our values of equity,
+          fairness, and transparency. Once a collaboration is established, we
+          continue to support these businesses by providing them with the
+          necessary resources and guidance to thrive and make a positive
+          societal impact.
         actions:
           - type: Button
             label: Learn more
