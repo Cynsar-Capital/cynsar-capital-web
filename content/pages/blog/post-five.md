@@ -1,5 +1,5 @@
 ---
-title: Climate Mitigation
+title: Climate Finance and its implications
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
