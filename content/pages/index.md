@@ -132,21 +132,12 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Focused
-        text: >+
-          A detached oriented process that provides ample time to teams and
-          businesses for building products and testing hypothesis in
-          co-ordinated  groups. This means business are focused only on what
-          they want to achieve with commnuities.
-
-
-          *   Product market fit testing
-
-
-          *   Support for further mentoring and expansion
-
-
-          *   Community expansion
-
+        text: >
+          Once the initiation phase is completed, our neutral tech investment
+          firm continues to work closely with businesses, ensuring they remain
+          focused on their goals and committed to creating positive societal
+          impact. We provide comprehensive support to help businesses refine
+          their products, test their hypotheses, and expand their reach.
         actions:
           - type: Button
             label: Learn more
