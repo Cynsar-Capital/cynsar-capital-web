@@ -2,9 +2,7 @@
 title: Climate Finance and its implications
 layout: PostLayout
 date: '2021-12-02'
-excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+excerpt: ' finance has the potential to address behavioral issues that contribute to environmental degradation and exacerbate climate change. By strategically allocating financial resources to projects, policies, and technologies focused on mitigating climate impacts and fostering sustainable development, climate finance can stimulate behavioral shifts that result in lasting environmental benefits.'
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
