@@ -9,7 +9,7 @@ title: How we do this?
 sections:
   - type: TextSection
     colors: colors-d
-    variant: variant-a
+    variant: variant-b
     text: >+
       to fostering innovation and social impact, Cynsar Capital stands out as a
       tech investment firm with a unique approach. Rather than blindly focusing
