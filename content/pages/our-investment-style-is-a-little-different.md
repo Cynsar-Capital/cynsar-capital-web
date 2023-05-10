@@ -117,7 +117,7 @@ sections:
         icon: arrowRight
         style: primary
       - type: Link
-        label: Learn more
+        label: Reach out to foundation
         showIcon: true
         icon: arrowRight
         url: /
