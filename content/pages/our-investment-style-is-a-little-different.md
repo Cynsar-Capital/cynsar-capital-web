@@ -41,9 +41,10 @@ sections:
       level by the Cynsar Foundation. The Bishnu Project, an FMCG enterprise
       specializing in the online sale of organic goods, taps into a rapidly
       growing market segment with enormous potential for both profits and
-      positive environmental impact. The second, 500women.art, is a collective
-      of 500 women dedicated to promoting fair and ethical textile production,
-      intertwining social impact with a sustainable business model.
+      positive environmental impact. The second,
+      [500women.art](https://500women.art), is a collective of 500 women
+      dedicated to promoting fair and ethical textile production, intertwining
+      social impact with a sustainable business model.
 
 
       Historically, we have funded these projects using personal funds. However,
@@ -77,6 +78,9 @@ sections:
       for women and promoting responsible manufacturing practices.
 
 
+
+
+      To know more about  [Cynsar Foundation](https://cynsar.foundation)
 
     styles:
       self:
