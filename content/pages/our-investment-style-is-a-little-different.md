@@ -10,9 +10,10 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      Rooted in a strong commitment to fostering innovation and social impact,
+      Cynsar Capital stands out as a tech investment firm with a unique
+      approach.
     styles:
       self:
         height: auto
