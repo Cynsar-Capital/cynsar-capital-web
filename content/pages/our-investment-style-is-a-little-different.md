@@ -106,9 +106,9 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: If you have an idea
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      that deserves some attention and probably support reach out to us. We
+      always like fishing and experimentation.
     actions:
       - type: Button
         label: Try it now
