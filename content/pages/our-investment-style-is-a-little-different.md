@@ -11,13 +11,13 @@ sections:
     colors: colors-d
     variant: variant-a
     text: >
-      <sup>t</sup>o fostering innovation and social impact, Cynsar Capital
-      stands out as a tech investment firm with a unique approach. Rather than
-      blindly focusing on financial returns, our emphasis is on supporting and
-      nurturing ideas and projects that adhere to our core principles of equity,
-      fairness, and transparency, and have the potential to make a real
-      difference in society. This philosophy aligns with our goal to build open
-      social capital products that bring about positive change.
+      to fostering innovation and social impact, Cynsar Capital stands out as a
+      tech investment firm with a unique approach. Rather than blindly focusing
+      on financial returns, our emphasis is on supporting and nurturing ideas
+      and projects that adhere to our core principles of equity, fairness, and
+      transparency, and have the potential to make a real difference in society.
+      This philosophy aligns with our goal to build open social capital products
+      that bring about positive change.
 
 
       Our partnership with the Cynsar Foundation plays an integral part in our
