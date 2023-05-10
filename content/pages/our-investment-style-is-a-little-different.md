@@ -34,4 +34,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    title: 'We stand out '
 ---
