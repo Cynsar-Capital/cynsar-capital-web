@@ -36,5 +36,5 @@ sections:
       text:
         textAlign: left
     title: 'We stand out '
-    subtitle: rooted in a
+    subtitle: Rooted in a strong commitment
 ---
