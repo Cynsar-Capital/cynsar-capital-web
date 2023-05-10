@@ -111,7 +111,7 @@ sections:
       always like fishing and experimentation.
     actions:
       - type: Button
-        label: Try it now
+        label: Get in touch
         url: /
         showIcon: true
         icon: arrowRight
