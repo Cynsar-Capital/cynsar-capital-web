@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    text: >
+    text: >+
       to fostering innovation and social impact, Cynsar Capital stands out as a
       tech investment firm with a unique approach. Rather than blindly focusing
       on financial returns, our emphasis is on supporting and nurturing ideas
@@ -60,6 +60,24 @@ sections:
       minimizing risk and maximizing chances of success. It is through this
       model that we strive to make a meaningful difference, contributing to a
       more equitable, fair, and transparent human ecosystem.
+
+
+      Currently, Cynsar Capital has two projects that have been incubated at the
+      local level by the Cynsar Foundation:
+
+
+      1.  The first is the Bishnu Project, an FMCG enterprise focused on selling
+      organic goods online. This is a rapidly growing market segment with
+      significant potential for profits and positive environmental impact.
+
+
+      2.  The second is 500women.art, a collective of 500 women who are working
+      to promote fair and ethical textile production. This project combines
+      social impact with a sustainable business model, creating opportunities
+      for women and promoting responsible manufacturing practices.
+
+
+
     styles:
       self:
         height: auto
