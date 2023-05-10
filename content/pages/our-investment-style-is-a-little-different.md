@@ -112,7 +112,7 @@ sections:
     actions:
       - type: Button
         label: Get in touch
-        url: /
+        url: /get-in-touch
         showIcon: true
         icon: arrowRight
         style: primary
