@@ -120,7 +120,7 @@ sections:
         label: Reach out to foundation
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'https://cynsar.foundation'
     backgroundImage: null
     styles:
       self:
