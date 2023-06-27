@@ -246,7 +246,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: What is neutral tech?
+    title: What is social tech?
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
