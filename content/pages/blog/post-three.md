@@ -1,7 +1,6 @@
 ---
 title: Devil is in the details - How does our investment works after all?
 layout: PostLayout
-date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
