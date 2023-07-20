@@ -68,5 +68,5 @@ sections:
       text:
         textAlign: left
     title: 'Dear '
-    subtitle: We like you enough
+    subtitle: 'We like you enough and '
 ---
