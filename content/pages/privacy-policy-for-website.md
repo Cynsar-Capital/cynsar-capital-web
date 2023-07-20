@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an empty page
+    title: Privacy is in our genes
     text: >
       Welcome to our website! We're thrilled you've decided to visit us instead
       of doing something more productive.
