@@ -61,9 +61,9 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Unique tech investment firm. Our playbook is different we invest in ideas
-      and philosophies that are open, simple, and sustainable.
-      #BuildingOpenSocialCapital..[read more](/blog/what-is-neutral-tech/)
+      Unique tech investment firm. Our playbook is to invest in ideas and
+      philosophies that are open, simple, and sustainable.
+      #BuildingSocialCapital..[read more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
     styles:
