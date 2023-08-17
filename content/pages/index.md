@@ -125,14 +125,12 @@ sections:
       - type: FeaturedItem
         title: Backing talks
         text: >
-          Once the initiation phase is completed, our neutral tech investment
-          firm continues to work closely with businesses, ensuring they remain
-          focused on their goals and committed to creating positive societal
-          impact. 
-
-
-          We provide comprehensive support to help businesses refine their
-          products, test their hypotheses, and expand their reach.
+          The constant media buzz about startups raising millions can paint a
+          deceptively rosy picture of the early-stage entrepreneurial journey.
+          For many founders, however, the path to securing substantial funding
+          is neither simple nor straightforward. While some tread the road of
+          diligence and perseverance, others might resort to dubious shortcuts,
+          embracing the "fake it till you make it" mantra.
         actions:
           - type: Button
             label: Learn more
