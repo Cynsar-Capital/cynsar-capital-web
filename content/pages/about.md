@@ -84,7 +84,6 @@ sections:
       We’re a group of friends, who love exploring the world and sharing our
       experiences with the world.
     people:
-      - content/data/team/hilary-ouse.json
       - content/data/team/desmond-eagle.json
       - content/data/team/hugh-saturation.json
     styles:
