@@ -154,7 +154,7 @@ sections:
             textAlign: left
     actions: []
     columns: 3
-    enableHover: false
+    enableHover: true
     styles:
       self:
         height: auto
