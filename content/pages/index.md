@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Fund with a vision
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
