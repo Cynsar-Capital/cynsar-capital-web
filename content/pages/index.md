@@ -226,6 +226,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Patience Driven Management
       - type: FeaturedItem
         title: Focused
         text: >-
