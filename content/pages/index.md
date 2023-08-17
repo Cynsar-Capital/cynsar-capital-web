@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Fund with a visio
+        title: Fund with zero aggresion
         actions:
           - type: Button
             label: Learn more
