@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Elevating conscience one at a time.
+    title: Purpose driven investing
     subtitle: Investing in people that are co-creating for equitable world
     actions:
       - type: Button
