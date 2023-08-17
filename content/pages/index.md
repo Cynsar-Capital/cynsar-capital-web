@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Purpose & Patience Driven Fund
+    title: We work with purpose & patience Driven entrepreneurs
     subtitle: Investing in early stage businesses that display purpose and patience.
     actions:
       - type: Button
