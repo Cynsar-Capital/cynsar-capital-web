@@ -169,7 +169,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Time to do things differnetly
+    title: Time to do things differently
     subtitle: ''
     items:
       - type: FeaturedItem
