@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: Apply Now
-        url: 'https://www.stackbit.com/'
+        url: 'https://startups.cynsar.capital/'
         style: primary
         iconPosition: right
         icon: arrowRight
