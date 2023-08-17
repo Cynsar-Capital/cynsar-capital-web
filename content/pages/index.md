@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Purpose & Patience Driven Investing
+    title: Purpose & Patience Driven Fund
     subtitle: Investing in eas
     actions:
       - type: Button
