@@ -19,21 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About our business
-    text: >
-      At our organization, the pursuit of finding a neutral product fit is more
-      than just a business goal; it's a way of life. We foster strong
-      connections with open-minded individuals and businesses, creating bonds
-      that go beyond professional relationships, evolving into friendships and a
-      sense of family. Our shared vision for a better, more sustainable
-      lifestyle drives us to develop products that are not only efficient but
-      also rooted in empathy and compassion.
-
-
-      We are committed to cultivating a more equitable, fair, and transparent
-      human ecosystem by leveraging the best that life has to offer. By
-      combining innovation, sustainability, and an unwavering focus on
-      human-centric design, we believe we can redefine the way we live and work,
-      ultimately contributing to a brighter and more inclusive future for all.
+    text: "Cynsar Capital was founded in 2021 by Saransh, an entrepreneur with experience in building financial tools,\_ and Cici, a retired corporate finance attorney. Saransh, with his expertise in developing research-oriented businesses, handles the key operations. Cici, with her experience as a financial lawyer, serves as an advisor and initial investor.\n\nCynsar Capital has dedicated considerable time and resources to conduct extensive internal research in collaboration with our partners. This investment has allowed us to gain a deep understanding of market size and emerging opportunities. Based on our findings, we have identified specific areas of management in which we aspire to take the lead and offer innovative solutions.\n\nAt Cynsar Capital, we prioritize building strong connections with like-minded individuals and businesses. These connections extend beyond mere professional relationships, often evolving into friendships and a sense of family. Our shared vision for a better, more sustainable lifestyle drives us to develop products that are not only highly efficient but also deeply grounded in empathy and compassion.\n\nBy combining our research-driven approach with our commitment to fostering meaningful relationships, we strive to be at the forefront of positive change. Our ultimate goal is to create products and solutions that not only meet market demands but also contribute to a more sustainable and compassionate world.\n\n\n\n"
     styles:
       self:
         height: auto
