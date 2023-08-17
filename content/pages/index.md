@@ -109,7 +109,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Collaboration
+        title: Aggressively Funding
       - type: FeaturedItem
         title: Initiation
         text: >
