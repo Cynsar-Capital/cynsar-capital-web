@@ -89,16 +89,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
-          Discover a New Way to Invest with Our Neutral Tech Investment Firm
-
-
-          Are you ready to make a difference with your investments? At our
-          neutral tech investment firm, we prioritize businesses that align with
-          our core axioms of equity, fairness, and transparency. By focusing on
-          these principles, we can drive sustainable development and make a
-          positive impact on society.
-
+        text: "In recent years, an aggressive venture capital (VC) approach has become prevalent, characterised by large investments in early-stage startups that showcase high growth potential. This aggressive strategy, while promising vast rewards, is inherently risky, particularly when the emphasis shifts from genuine product value to mere perceived value.\_\n"
         actions:
           - type: Button
             label: Learn more
@@ -113,14 +104,14 @@ sections:
       - type: FeaturedItem
         title: Investing Without Purpose
         text: >
-          At our neutral tech investment firm, we take pride in fostering strong
-          partnerships with businesses that share our values of equity,
-          fairness, and transparency.
-
-
-          Once a collaboration is established, we continue to support these
-          businesses by providing them with the necessary resources and guidance
-          to thrive and make a positive societal impact. 
+          Numerous businesses lack a clear understanding of the problem they aim
+          to address, often because their foundational hypothesis is built on
+          misguided assumptions or incorrect observations of their target
+          audience. The intrinsic value of purpose, rooted in genuine passion,
+          is often overlooked by many entrepreneurs. Startups attempting to
+          replicate the business models and success stories of others frequently
+          miss out on the underlying narrative, which is typically inaccessible
+          to them.
         actions:
           - type: Button
             label: Learn more
@@ -132,16 +123,14 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Backing No product only talk
+        title: Backing talks
         text: >
-          Once the initiation phase is completed, our neutral tech investment
-          firm continues to work closely with businesses, ensuring they remain
-          focused on their goals and committed to creating positive societal
-          impact. 
-
-
-          We provide comprehensive support to help businesses refine their
-          products, test their hypotheses, and expand their reach.
+          The constant media buzz about startups raising millions can paint a
+          deceptively rosy picture of the early-stage entrepreneurial journey.
+          For many founders, however, the path to securing substantial funding
+          is neither simple nor straightforward. While some tread the road of
+          diligence and perseverance, others might resort to dubious shortcuts,
+          embracing the "fake it till you make it" mantra.
         actions:
           - type: Button
             label: Learn more
@@ -177,6 +166,107 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+  - type: FeaturedItemsSection
+    colors: colors-c
+    elementId: ''
+    title: Time to do things differently
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: 'Fund with Zero Aggression: A New Approach to Investment'
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+        text: >
+          At Fund with Zero Aggression, we envision a world where
+          entrepreneurship isn't just a race to the highest valuation or the
+          quickest exit. Instead, we believe in the inherent value of building a
+          business rooted in strong fundamentals and genuine passion.
+
+
+          Our commitment is clear: We invest in entrepreneurs who aren't merely
+          chasing funding for inflated valuations or short-term exits. We're not
+          interested in the quick turnarounds and superficial hype. We're here
+          for the long haul, supporting businesses that are constructed on solid
+          ground, that have a real purpose, and that can make a lasting impact.
+
+
+          Our philosophy opposes the aggressive tactics often seen in the world
+          of investment. Rather than pushing for rapid scale at any cost, we
+          advocate for thoughtful growth, ensuring that each step taken is
+          sustainable and aligned with the company's core values. By working
+          with us, entrepreneurs can expect a partnership that prioritizes value
+          over valuation and substance over speed.
+
+
+          In essence, the Fund with Zero Aggression seeks to elevate companies
+          that are not just looking to make a mark but are determined to leave a
+          legacy. Join us in setting a new standard for investment, where
+          value-driven companies, grounded in fundamentals, are the gold
+          standard.
+      - type: FeaturedItem
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+        title: Patience Driven Management
+      - type: FeaturedItem
+        title: Focused
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    columns: 1
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-c
     variant: variant-a
