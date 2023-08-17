@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Purpose & Patience
-    subtitle: Investing in early stage businesses that display purpose and patience.
+    subtitle: Investing in early stage businesses that display both.
     actions:
       - type: Button
         label: Apply Now
