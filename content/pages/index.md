@@ -228,7 +228,7 @@ sections:
             textAlign: left
         title: Patience Driven
       - type: FeaturedItem
-        title: Focused
+        title: Purpose
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
