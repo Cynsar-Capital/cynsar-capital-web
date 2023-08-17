@@ -89,16 +89,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
-          Discover a New Way to Invest with Our Neutral Tech Investment Firm
-
-
-          Are you ready to make a difference with your investments? At our
-          neutral tech investment firm, we prioritize businesses that align with
-          our core axioms of equity, fairness, and transparency. By focusing on
-          these principles, we can drive sustainable development and make a
-          positive impact on society.
-
+        text: "In recent years, an aggressive venture capital (VC) approach has become prevalent, characterised by large investments in early-stage startups that showcase high growth potential. This aggressive strategy, while promising vast rewards, is inherently risky, particularly when the emphasis shifts from genuine product value to mere perceived value.\_\n"
         actions:
           - type: Button
             label: Learn more
