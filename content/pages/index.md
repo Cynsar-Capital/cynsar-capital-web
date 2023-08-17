@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Purpose & Patience Driven Fund
-    subtitle: Investing in eas
+    subtitle: Investing in early stage businesses that display purpose and patience.
     actions:
       - type: Button
         label: Get Started
