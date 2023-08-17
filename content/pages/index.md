@@ -111,7 +111,7 @@ sections:
             textAlign: left
         title: Aggressively Funding
       - type: FeaturedItem
-        title: Initiation
+        title: Without Purpose
         text: >
           At our neutral tech investment firm, we take pride in fostering strong
           partnerships with businesses that share our values of equity,
