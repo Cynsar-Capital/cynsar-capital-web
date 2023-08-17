@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Purpose driven investing
+    title: Purpose & Patience Driven Investing
     subtitle: Investing in people that are co-creating for equitable world
     actions:
       - type: Button
