@@ -169,7 +169,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Key value propositions
+    title: Time to do things differnetly
     subtitle: ''
     items:
       - type: FeaturedItem
