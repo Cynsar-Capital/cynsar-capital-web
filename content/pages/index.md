@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Fund with zero aggression
+        title: 'Fund with Zero Aggression: A New Approach to Investment'
         actions:
           - type: Button
             label: Learn more
