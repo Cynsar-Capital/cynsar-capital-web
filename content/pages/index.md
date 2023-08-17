@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Fund with zero aggresion
+        title: Fund with zero aggression
         actions:
           - type: Button
             label: Learn more
