@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: We work with purpose & patience Driven entrepreneurs
+    title: Purpose & Patience
     subtitle: Investing in early stage businesses that display purpose and patience.
     actions:
       - type: Button
