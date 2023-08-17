@@ -132,7 +132,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: No product only talk
         text: >
           Once the initiation phase is completed, our neutral tech investment
           firm continues to work closely with businesses, ensuring they remain
