@@ -61,9 +61,9 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Join Cynsar Capital, the leading investment firm targeting early-stage
-      businesses in the vibrant Global South. Unlock limitless opportunities as
-      we fuel growth in sectors defining tomorrow\..[read
+      Join Cynsar Capital, the  investment firm targeting early-stage businesses
+      in the vibrant Global South. Unlock limitless opportunities as we fuel
+      growth in sectors defining tomorrow\..[read
       more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
