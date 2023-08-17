@@ -85,7 +85,7 @@ sections:
         textAlign: center
   - colors: colors-d
     elementId: ''
-    title: Ok how does this work?
+    title: Investment firms are ....
     subtitle: ''
     items:
       - type: FeaturedItem
