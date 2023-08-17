@@ -123,7 +123,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Backing No product only talk
+        title: Backing talks
         text: >
           Once the initiation phase is completed, our neutral tech investment
           firm continues to work closely with businesses, ensuring they remain
