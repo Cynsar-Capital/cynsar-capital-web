@@ -61,9 +61,11 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Unique tech investment firm. Our playbook is to invest in ideas and
-      philosophies that are open, simple, and sustainable.
-      #BuildingSocialCapital..[read more](/blog/what-is-neutral-tech/)
+      Embark on a transformative journey with Cynsar Capital, the premier
+      investment firm that is laser-focused on early-stage businesses and
+      startups in the dynamic Global South. Step into a world of potential and
+      endless opportunities as we drive growth and innovation in sectors that
+      shape the future.[read more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
     styles:
