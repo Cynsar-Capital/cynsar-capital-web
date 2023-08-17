@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Purpose & Patience Driven Investing
-    subtitle: Investing in people that are co-creating for equitable world
+    subtitle: Investing in eas
     actions:
       - type: Button
         label: Get Started
