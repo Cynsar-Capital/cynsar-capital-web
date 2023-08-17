@@ -212,7 +212,6 @@ sections:
           value-driven companies, grounded in fundamentals, are the gold
           standard.
       - type: FeaturedItem
-        title: Smarter
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
