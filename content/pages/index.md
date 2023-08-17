@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Fund with a vision
+        title: Fund with a visio
         actions:
           - type: Button
             label: Learn more
