@@ -61,11 +61,10 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Embark on a transformative journey with Cynsar Capital, the premier
-      investment firm that is laser-focused on early-stage businesses and
-      startups in the dynamic Global South. Step into a world of potential and
-      endless opportunities as we drive growth and innovation in sectors that
-      shape the future.[read more](/blog/what-is-neutral-tech/)
+      Join Cynsar Capital, the leading investment firm targeting early-stage
+      businesses in the vibrant Global South. Unlock limitless opportunities as
+      we fuel growth in sectors defining tomorrow\..[read
+      more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
     styles:
