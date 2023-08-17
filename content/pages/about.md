@@ -85,7 +85,6 @@ sections:
       experiences with the world.
     people:
       - content/data/team/hilary-ouse.json
-      - content/data/team/dianne-ameter.json
       - content/data/team/desmond-eagle.json
       - content/data/team/hugh-saturation.json
     styles:
