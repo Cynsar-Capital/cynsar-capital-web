@@ -4,7 +4,6 @@
     "lastName": "Garg",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/hilary-ouse.png",
         "altText": "Hilary Ouse photo"
     },
     "role": "Investor"
