@@ -23,7 +23,7 @@ sections:
     subtitle: Investing in early stage businesses that display purpose and patience.
     actions:
       - type: Button
-        label: Get Started
+        label: Apply Now
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
