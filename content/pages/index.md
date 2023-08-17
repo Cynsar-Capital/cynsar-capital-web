@@ -185,9 +185,6 @@ sections:
           self:
             textAlign: left
         text: >
-          **Fund with Zero Aggression: A New Approach to Investment**
-
-
           At Fund with Zero Aggression, we envision a world where
           entrepreneurship isn't just a race to the highest valuation or the
           quickest exit. Instead, we believe in the inherent value of building a
