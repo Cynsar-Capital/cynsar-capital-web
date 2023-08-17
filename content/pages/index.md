@@ -184,6 +184,36 @@ sections:
         styles:
           self:
             textAlign: left
+        text: >
+          **Fund with Zero Aggression: A New Approach to Investment**
+
+
+          At Fund with Zero Aggression, we envision a world where
+          entrepreneurship isn't just a race to the highest valuation or the
+          quickest exit. Instead, we believe in the inherent value of building a
+          business rooted in strong fundamentals and genuine passion.
+
+
+          Our commitment is clear: We invest in entrepreneurs who aren't merely
+          chasing funding for inflated valuations or short-term exits. We're not
+          interested in the quick turnarounds and superficial hype. We're here
+          for the long haul, supporting businesses that are constructed on solid
+          ground, that have a real purpose, and that can make a lasting impact.
+
+
+          Our philosophy opposes the aggressive tactics often seen in the world
+          of investment. Rather than pushing for rapid scale at any cost, we
+          advocate for thoughtful growth, ensuring that each step taken is
+          sustainable and aligned with the company's core values. By working
+          with us, entrepreneurs can expect a partnership that prioritizes value
+          over valuation and substance over speed.
+
+
+          In essence, the Fund with Zero Aggression seeks to elevate companies
+          that are not just looking to make a mark but are determined to leave a
+          legacy. Join us in setting a new standard for investment, where
+          value-driven companies, grounded in fundamentals, are the gold
+          standard.
       - type: FeaturedItem
         title: Smarter
         text: >-
