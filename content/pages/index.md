@@ -104,14 +104,14 @@ sections:
       - type: FeaturedItem
         title: Investing Without Purpose
         text: >
-          At our neutral tech investment firm, we take pride in fostering strong
-          partnerships with businesses that share our values of equity,
-          fairness, and transparency.
-
-
-          Once a collaboration is established, we continue to support these
-          businesses by providing them with the necessary resources and guidance
-          to thrive and make a positive societal impact. 
+          Numerous businesses lack a clear understanding of the problem they aim
+          to address, often because their foundational hypothesis is built on
+          misguided assumptions or incorrect observations of their target
+          audience. The intrinsic value of purpose, rooted in genuine passion,
+          is often overlooked by many entrepreneurs. Startups attempting to
+          replicate the business models and success stories of others frequently
+          miss out on the underlying narrative, which is typically inaccessible
+          to them.
         actions:
           - type: Button
             label: Learn more
