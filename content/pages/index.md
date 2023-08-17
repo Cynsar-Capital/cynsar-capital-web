@@ -19,12 +19,12 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Elevating conscience one at a time.
-    subtitle: Investing in people that are co-creating for equitable world
+    title: Purpose & Patience
+    subtitle: Investing in early stage businesses that display both.
     actions:
       - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
+        label: Apply Now
+        url: 'https://startups.cynsar.capital/'
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -61,9 +61,10 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: >
-      Unique tech investment firm. Our playbook is different we invest in ideas
-      and philosophies that are open, simple, and sustainable.
-      #BuildingOpenSocialCapital..[read more](/blog/what-is-neutral-tech/)
+      Join Cynsar Capital, the  investment firm targeting early-stage businesses
+      in the vibrant Global South. Unlock limitless opportunities as we fuel
+      growth in sectors defining tomorrow\..[read
+      more](/blog/what-is-neutral-tech/)
     name: Saransh Sharma
     title: Partner
     styles:
@@ -84,7 +85,7 @@ sections:
         textAlign: center
   - colors: colors-d
     elementId: ''
-    title: Ok how does this work?
+    title: Investment firms are ....
     subtitle: ''
     items:
       - type: FeaturedItem
@@ -108,9 +109,9 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Collaboration
+        title: Aggressively Funding
       - type: FeaturedItem
-        title: Initiation
+        title: Investing Without Purpose
         text: >
           At our neutral tech investment firm, we take pride in fostering strong
           partnerships with businesses that share our values of equity,
@@ -131,7 +132,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: Backing No product only talk
         text: >
           Once the initiation phase is completed, our neutral tech investment
           firm continues to work closely with businesses, ensuring they remain
