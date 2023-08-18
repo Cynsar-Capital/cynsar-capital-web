@@ -11,76 +11,18 @@ sections:
     colors: colors-d
     variant: variant-a
     text: >+
-      to fostering innovation and social impact, Cynsar Capital stands out as a
-      tech investment firm with a unique approach. Rather than blindly focusing
-      on financial returns, our emphasis is on supporting and nurturing ideas
-      and projects that adhere to our core principles of equity, fairness, and
-      transparency, and have the potential to make a real difference in society.
-      This philosophy aligns with our goal to build open social capital products
+      to fostering innovation and social impact, Cynsar Capital stands out as a 
+      investment firm with a unique approach. Rather than blindly focusing on
+      financial returns, our emphasis is on supporting and nurturing ideas and
+      projects that adhere to our core principles of purpose driven, patiently
+      building businesses. This philosophy aligns with our goal to build thesis 
       that bring about positive change.
 
 
-      Our partnership with the Cynsar Foundation plays an integral part in our
-      model. Serving as an 'idea incubator,' the foundation is responsible for
-      rigorously vetting potential projects, ensuring their viability,
-      innovative potential, and capacity for high social and environmental
-      impact. This process is crucial in maintaining our dedication to
-      developing technologies that prioritize people over processes and view
-      technology as a tool for betterment.
-
-
-      Once a project passes this rigorous evaluation process by the Cynsar
-      Foundation, Cynsar Capital steps in, providing the necessary financial
-      investment to transform the idea into a thriving, impactful business. This
-      symbiotic relationship creates a pipeline of thoroughly tested,
-      high-potential projects for investment, significantly reducing associated
-      risks.
-
-
-      We are proud to currently support two projects incubated at the local
-      level by the Cynsar Foundation. The Bishnu Project, an FMCG enterprise
-      specializing in the online sale of organic goods, taps into a rapidly
-      growing market segment with enormous potential for both profits and
-      positive environmental impact. The second,
-      [500women.art](https://500women.art), is a collective of 500 women
-      dedicated to promoting fair and ethical textile production, intertwining
-      social impact with a sustainable business model.
-
-
-      Historically, we have funded these projects using personal funds. However,
-      as we move forward, we plan to introduce a corporate structure that
-      enables us to channel funds from Cynsar Capital to these ventures,
-      incorporating them as subsidiaries of Cynsar Capital.
-
-
-      Our business model is centered around experimentation and validation. We
-      first test ideas in a non-profit environment to discover clear,
-      sustainable paths to profitability. This unique approach ensures that by
-      the time Cynsar Capital invests in a project, it has already been
-      thoroughly vetted for feasibility and potential profitability, effectively
-      minimizing risk and maximizing chances of success. It is through this
-      model that we strive to make a meaningful difference, contributing to a
-      more equitable, fair, and transparent human ecosystem.
-
-
-      Currently, Cynsar Capital has two projects that have been incubated at the
-      local level by the Cynsar Foundation:
-
-
-      1.  The first is the Bishnu Project, an FMCG enterprise focused on selling
-      organic goods online. This is a rapidly growing market segment with
-      significant potential for profits and positive environmental impact.
-
-
-      2.  The second is 500women.art, a collective of 500 women who are working
-      to promote fair and ethical textile production. This project combines
-      social impact with a sustainable business model, creating opportunities
-      for women and promoting responsible manufacturing practices.
-
-
-
-
-      To know more about  [Cynsar Foundation](https://cynsar.foundation)
+      At Cynsar Capital, we prioritise building strong relationships and believe
+      in the power of patience. Our experienced team of entrepreneurs and
+      retired financial lawyers provide valuable insights and hands-on support
+      to partners.
 
     styles:
       self:
