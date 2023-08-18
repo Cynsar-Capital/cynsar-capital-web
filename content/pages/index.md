@@ -117,7 +117,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: blog/why-purposeless-company/
             style: secondary
         styles:
           self:
