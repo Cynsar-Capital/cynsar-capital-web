@@ -93,7 +93,9 @@ Jaal Yantra
 
 > We have invested early stage where board members are Piyush Gupta and Sarvottam Kumar Jha.
 
-<div style="text-align: center">![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg).               ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image)</div>
+<div style="text-align: left">## People</div>
 
-<div style="text-align: center">Sarvottam Kumar Jha                                 Piyush Kumar</div>
+<div style="text-align: center">                               | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg) | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image) |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Sarvottam Kumar Jha                                                                                | Piyush Kumar                                                                                     |</div>
 
