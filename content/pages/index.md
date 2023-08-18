@@ -364,7 +364,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: What is our core value?
+    title: What is our core thesis?
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
