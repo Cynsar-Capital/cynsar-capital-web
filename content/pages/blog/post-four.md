@@ -60,7 +60,7 @@ addTitleSuffix: true
 excerpt: >-
   Black Cheetah is an innovative e-commerce company that is changing the way
   consumers access fresh, local produce and support sustainable agriculture.
-  Founded in 2020 by a group of entrepreneurs and farmers, Black Cheetah
+  Founded in 2023 by a group of entrepreneurs and farmers, Black Cheetah
   operates on a direct farm-to-consumer model that cuts out distributors and
   grocery store chains. This allows Black Cheetah to provide high-quality,
   farm-fresh goods to customers' doorsteps while also giving local farmers a
