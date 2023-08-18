@@ -95,7 +95,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: /what-is-neutral-tech/
             style: secondary
         styles:
           self:
