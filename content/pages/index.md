@@ -226,7 +226,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Patience Driven
+        title: Purpose Driven
       - type: FeaturedItem
         title: Purpose Driven
         text: >-
