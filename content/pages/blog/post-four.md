@@ -57,6 +57,10 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+excerpt: >-
+  The purpose of this presentation is to introduce Black Cheetah, an innovative
+  e-commerce company that provides farm-fresh produce directly to consumers
+  while empowering small farmers and promoting sustainability.
 ---
 Cynsar capital play book has identified financial technology as one of the key domains where we think we can make a difference.
 
