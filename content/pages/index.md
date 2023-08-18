@@ -143,10 +143,10 @@ sections:
             textAlign: left
     actions: []
     columns: 3
-    enableHover: true
+    enableHover: false
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
@@ -169,7 +169,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Time to do things differently
+    title: It's time for a change.
     subtitle: ''
     items:
       - type: FeaturedItem
@@ -212,10 +212,30 @@ sections:
           value-driven companies, grounded in fundamentals, are the gold
           standard.
       - type: FeaturedItem
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          At the heart of every early-stage company lies an essential purpose—a
+          core mission that goes beyond just profits. We believe in investing in
+          companies that set a fresh tone, ones where purpose is intricately
+          woven into their fabric. These companies may be simple in their
+          approach, but their intentions and goals aren't always easy to
+          discern.
+
+
+          Before we commit, we delve deep to understand the ethos driving each
+          stakeholder. What's their purpose? What values underpin their vision?
+          It's essential for us to align with companies whose ambitions resonate
+          with our beliefs.
+
+
+          To ensure this alignment, we've developed our unique VRPG formula, a
+          method tailored to assess purpose on a quantifiable scale. By
+          harnessing this formula, we can better identify and partner with
+          companies that aren't just seeking investment but are looking to make
+          a meaningful impact.
+
+
+          Join us in this transformative journey, where purpose isn't just a
+          buzzword—it's the bedrock of our investment philosophy.
         actions:
           - type: Button
             label: Learn more
@@ -226,13 +246,42 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Patience Driven Management
+        title: Embracing a New Era of Purpose-Driven Investment
       - type: FeaturedItem
-        title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Over our years of experience, one lesson stands out starkly: Mental
+          well-being is paramount when building and nurturing a business. This
+          isn't just an abstract concept; it's a tangible reality that affects
+          the core of every venture.
+
+
+          As we've journeyed through the world of business, we've come to
+          appreciate the profound impact that mental wellness has on
+          productivity, profitability, and sustainability. It's more than just a
+          metric or another KPI to track; it's the very foundation upon which
+          resilient businesses are built.
+
+
+          When we consider investing in entrepreneurs, we don't just focus on
+          aggressive factors or even the core purposes that drive a company. Our
+          comprehensive approach uses specialized tools to evaluate the mental
+          well-being framework within the business. It's vital to ensure that
+          not only is a business sound on paper, but also that its heartbeat –
+          its people and leaders – are in a place of mental strength and
+          clarity.
+
+
+          Our commitment extends beyond just capital. We strive to support and
+          guide entrepreneurs, ensuring they prioritize mental wellness
+          alongside their business goals. This is our way of ensuring that our
+          stakeholders are not just informed but deeply aligned with the ethos
+          of business mental wellness.
+
+
+          In an age where burnout and stress are rampant, we believe in
+          championing a different narrative. One where businesses don't just
+          thrive, but where the people behind them flourish too. After all, a
+          healthy mind is at the heart of a thriving business.
         actions:
           - type: Button
             label: Learn more
@@ -243,6 +292,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 'Mental Well-being: The Keystone of Business Success'
     actions: []
     columns: 1
     enableHover: false
