@@ -67,7 +67,7 @@ excerpt: >-
   for the planet.
 date: '2022-12-02'
 metaTitle: 'Introducing Jaal Yantra , A New Wave in Fashion '
-colors: colors-b
+colors: colors-a
 ---
 Introducing Jaal Yantra , A New Wave in Fashion Are you tired of the fast fashion frenzy, the pollution, and inequality it promotes? So are we!
 
