@@ -248,7 +248,6 @@ sections:
             textAlign: left
         title: Embracing a New Era of Purpose-Driven Investment
       - type: FeaturedItem
-        title: Purpose Driven
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
