@@ -45,7 +45,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    title: 'We stand out '
+    title: What is VRPG?
     subtitle: Rooted in a strong commitment
   - type: CtaSection
     elementId: ''
