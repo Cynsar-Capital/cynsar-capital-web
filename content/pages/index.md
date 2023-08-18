@@ -292,6 +292,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: 'Mental Well-being: The Keystone of Business Success'
     actions: []
     columns: 1
     enableHover: false
