@@ -1,7 +1,7 @@
 ---
 title: Jaal Yantra Textiles
 layout: PostLayout
-date: '0001-12-02'
+date: '0002-12-02'
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
