@@ -72,6 +72,8 @@ Introducing Jaal Yantra , A New Wave in Fashion Are you tired of the fast fashio
 
 That's why at Jaal Yantra Textiles, we've reimagined clothing. With a focus on community collaboration, eco-creativity, and inclusivity, we've sculpted a brand that resonates with the soul and stands up for the planet.
 
+![](/images/Sketches%2011.png)
+
 **Why Jaal Yantra?**
 
 1\. **Embrace the Art of Imperfection**: Our clothing is not just a piece of fabric; it's a tapestry of dreams, culture, and community. Crafted to perfection, each dress tells a story.
@@ -96,7 +98,8 @@ Jaal Yantra
 
 <div style="text-align: left">## People</div>
 
-<div style="text-align: center">                               | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg) | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image) |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Sarvottam Kumar Jha                                                                                | Piyush Kumar                                                                                     |</div>
+<div style="text-align: center">```
+                           | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg) | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image) |
+```| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+\| Sarvottam Kumar Jha                                                                                | Piyush Kumar                                                                                     |</div>
 
