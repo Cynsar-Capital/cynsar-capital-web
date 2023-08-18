@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/desmond-eagle.json
 ---
 #####
 
