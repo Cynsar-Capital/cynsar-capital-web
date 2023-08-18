@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Why aggressive funding?
+title: What has aggressive investment caused?
 colors: colors-d
 date: '2022-09-28'
 featuredImage:
