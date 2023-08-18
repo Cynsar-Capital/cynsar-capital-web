@@ -54,8 +54,8 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 metaDescription: >-
-  Sunset fishing is a beautiful time of day to relax and get in touch with
-  nature
+  Introducing Jaal Yantra , A New Wave in Fashion Are you tired of the fast
+  fashion frenzy, the pollution, and inequality it promotes? So are we!
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 author: content/data/team/desmond-eagle.json
@@ -66,10 +66,13 @@ excerpt: >-
   inclusivity, we've sculpted a brand that resonates with the soul and stands up
   for the planet.
 date: '2022-12-02'
+metaTitle: 'Introducing Jaal Yantra , A New Wave in Fashion '
 ---
 Introducing Jaal Yantra , A New Wave in Fashion Are you tired of the fast fashion frenzy, the pollution, and inequality it promotes? So are we!
 
 That's why at Jaal Yantra Textiles, we've reimagined clothing. With a focus on community collaboration, eco-creativity, and inclusivity, we've sculpted a brand that resonates with the soul and stands up for the planet.
+
+![](/images/Sketches%2011.png)
 
 **Why Jaal Yantra?**
 
@@ -95,7 +98,8 @@ Jaal Yantra
 
 <div style="text-align: left">## People</div>
 
-<div style="text-align: center">                               | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg) | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image) |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Sarvottam Kumar Jha                                                                                | Piyush Kumar                                                                                     |</div>
+<div style="text-align: center">```
+                           | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/sham_image.jpg) | ![](https://res.cloudinary.com/theupscale/image/upload/c_thumb,g_faces,h_200,w_200/Piyush_image) |
+```| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+\| Sarvottam Kumar Jha                                                                                | Piyush Kumar                                                                                     |</div>
 
