@@ -213,9 +213,6 @@ sections:
           standard.
       - type: FeaturedItem
         text: >
-          Embracing a New Era of Purpose-Driven Investment
-
-
           At the heart of every early-stage company lies an essential purpose—a
           core mission that goes beyond just profits. We believe in investing in
           companies that set a fresh tone, ones where purpose is intricately
