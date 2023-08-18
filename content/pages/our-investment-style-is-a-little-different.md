@@ -46,7 +46,7 @@ sections:
       text:
         textAlign: left
     title: What is VRPG?
-    subtitle: Rooted in a strong commitment
+    subtitle: Our own canvas model
   - type: CtaSection
     elementId: ''
     colors: colors-e
