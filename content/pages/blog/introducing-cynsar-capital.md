@@ -24,6 +24,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/person-sgh2ovg5c.json
+title: Introducing Cynsar Capital
 ---
 **Introduction to Cynsar Capital's Focus:**
 
