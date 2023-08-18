@@ -361,33 +361,10 @@ sections:
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     showAuthor: false
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: |+
-      ## Find us on [Second.Exchange](https://second.exchange)
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: What is our core value?
+    title: What is our core thesis?
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 
