@@ -44,9 +44,10 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >
-      "We strive to collaborate with individuals rather than solely focusing on
-      processes and products, emphasizing the importance of viewing technology
-      as a tool to serve people instead of dictating our lives."
+      We serve as a mental support system, akin to therapists emotional anchors,
+      allowing entrepreneurs to express themselves freely. This fosters a
+      healthier business development process and facilitates more fruitful deals
+      throughout their journey.
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
