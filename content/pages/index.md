@@ -246,7 +246,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Purpose Driven
+        title: Embracing a New Era of Purpose-Driven Investment
       - type: FeaturedItem
         title: Purpose Driven
         text: >-
