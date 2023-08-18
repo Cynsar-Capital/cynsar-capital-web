@@ -10,20 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    text: >+
-      to fostering innovation and social impact, Cynsar Capital stands out as a 
-      investment firm with a unique approach. Rather than blindly focusing on
-      financial returns, our emphasis is on supporting and nurturing ideas and
-      projects that adhere to our core principles of purpose driven, patiently
-      building businesses. This philosophy aligns with our goal to build thesis 
-      that bring about positive change.
-
-
-      At Cynsar Capital, we prioritise building strong relationships and believe
-      in the power of patience. Our experienced team of entrepreneurs and
-      retired financial lawyers provide valuable insights and hands-on support
-      to partners.
-
+    text: "At our firm, we have implemented the VRPG framework, inspired by the canvas model, to guide our investment strategy. This framework revolves around four key elements: Value, Resources, Problems, and Goals. By utilising this framework, we carefully assess the shared values and attributes of both entrepreneurs and investors, thereby ensuring a compatible and fruitful partnership.\_\_\n\nThe VRPG framework functions as a canvas-type model, facilitating the collection and alignment of values from all parties involved. This comprehensive approach allows us to evaluate the degree of alignment between the values of entrepreneurs and investors. If a close alignment is observed, we proceed with the investment deal, recognizing the potential for a successful collaboration.\_\_\n\nThrough the VRPG framework, we aim to foster a strong foundation for investment decisions, highlighting the significance of shared values and goals. By prioritising these elements, we strive to create mutually beneficial relationships between entrepreneurs and investors, ultimately driving business growth and success.\n\n\n\n"
     styles:
       self:
         height: auto
