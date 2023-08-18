@@ -387,7 +387,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: What is social tech?
+    title: What is our core value?
     text: >
       Investing in people ,  ideas and projects that are fundamentally different
       and are observing sustainable goals. 

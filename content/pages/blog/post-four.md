@@ -1,12 +1,9 @@
 ---
-title: Financial Technology
+title: Black Cheetah
 layout: PostLayout
-date: '2021-12-01'
+date: '2023-06-15'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
-excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
@@ -60,6 +57,14 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+excerpt: >-
+  Black Cheetah is an innovative e-commerce company that is changing the way
+  consumers access fresh, local produce and support sustainable agriculture.
+  Founded in 2023 by a group of entrepreneurs and farmers, Black Cheetah
+  operates on a direct farm-to-consumer model that cuts out distributors and
+  grocery store chains. This allows Black Cheetah to provide high-quality,
+  farm-fresh goods to customers' doorsteps while also giving local farmers a
+  platform and fair prices.
 ---
 Cynsar capital play book has identified financial technology as one of the key domains where we think we can make a difference.
 
