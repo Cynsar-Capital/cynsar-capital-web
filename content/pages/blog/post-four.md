@@ -1,7 +1,7 @@
 ---
 title: Black Cheetah
 layout: PostLayout
-date: '2021-12-01'
+date: '2022-12-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 featuredImage:
