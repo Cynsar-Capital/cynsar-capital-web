@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Introducing Cynsar Capital Embark on a journey with us
 colors: colors-d
 date: '2023-08-18'
 excerpt: >-
