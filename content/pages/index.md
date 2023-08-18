@@ -329,7 +329,6 @@ sections:
         icon: arrowRight
     posts:
       - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
     styles:
       self:
         height: auto
