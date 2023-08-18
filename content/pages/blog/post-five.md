@@ -60,6 +60,12 @@ metaDescription: >-
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 author: content/data/team/desmond-eagle.json
+excerpt: >-
+  Are you tired of the fast fashion frenzy, the pollution, and inequality it
+  promotes? So are we! That's why at Jaal Yantra Textiles, we've reimagined
+  clothing. With a focus on community collaboration, eco-creativity, and
+  inclusivity, we've sculpted a brand that resonates with the soul and stands up
+  for the planet.
 ---
 Climate finance has the potential to address behavioral issues that contribute to environmental degradation and exacerbate climate change. By strategically allocating financial resources to projects, policies, and technologies focused on mitigating climate impacts and fostering sustainable development, climate finance can stimulate behavioral shifts that result in lasting environmental benefits.
 
