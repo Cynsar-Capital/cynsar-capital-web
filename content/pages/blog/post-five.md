@@ -53,7 +53,9 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-metaDescription: 'ntroducing Jaal Yantra , A New Wave in Fashion '
+metaDescription: >-
+  Introducing Jaal Yantra , A New Wave in Fashion Are you tired of the fast
+  fashion frenzy, the pollution, and inequality it promotes? So are we!
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 author: content/data/team/desmond-eagle.json
