@@ -44,11 +44,9 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >
-      We aim to provide unique value to our portfolio companies by establishing
-      a supportive environment that extends beyond monetary assistance. We serve
-      as a mental support system, akin to therapists emotional anchors, allowing
-      entrepreneurs to express themselves freely. This fosters a healthier
-      business development process and facilitates more fruitful deals
+      We serve as a mental support system, akin to therapists emotional anchors,
+      allowing entrepreneurs to express themselves freely. This fosters a
+      healthier business development process and facilitates more fruitful deals
       throughout their journey.
     backgroundImage:
       url: /images/bg.webp
