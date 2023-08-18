@@ -53,9 +53,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-metaDescription: >-
-  Sunset fishing is a beautiful time of day to relax and get in touch with
-  nature
+metaDescription: 'ntroducing Jaal Yantra , A New Wave in Fashion '
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 author: content/data/team/desmond-eagle.json
