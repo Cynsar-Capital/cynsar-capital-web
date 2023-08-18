@@ -3,9 +3,7 @@ title: Global South Landscape
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: "The Global South encompasses Africa, Asia, and Latin America, offering promising opportunities for investors and entrepreneurs. In 2021, these regions experienced significant growth in early-stage investments. Africa saw a surge with 1,057 deals worth $2.4 billion, indicating growing confidence in the African market. Asia recorded 11,258 deals valued at $111.3 billion, with China, India, and South Korea leading the way. Latin America had 4,203 deals worth $13.1 billion, reflecting investor interest in the region.\_"
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
