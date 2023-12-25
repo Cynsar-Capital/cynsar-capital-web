@@ -11,14 +11,11 @@ sections:
     colors: colors-d
     variant: variant-a
     title: We are going offline ...
-    text: >+
+    text: >
       ok !
 
 
-
-
-      So we never invested and never lost a single dime but why we started this 
-
+      So we never invested and never lost a single dime but why we started this
 
 
       1.  We were clueless and not know what to do with our lives.
@@ -27,16 +24,20 @@ sections:
       2.  Like the rest of the world ....
 
 
-
-
       So we are no longer taking any enquiries and please forward your
       investment proposal if you have any to someone who an invest !
 
 
-
-
       Thanks
 
+
+      PS
+
+      Few weeks we will winding up and returning our shareholders money if there
+      is any
+
+
+      Thanks 
     styles:
       self:
         height: auto
