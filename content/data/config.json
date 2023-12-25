@@ -12,7 +12,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/",
+                "url": "/winding-up",
                 "altText": ""
             },
             {
@@ -42,7 +42,7 @@
             {
                 "type": "Button",
                 "label": "Invest with us",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
@@ -80,7 +80,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/",
+                "url": "/winding-up",
                 "altText": ""
             },
             {
