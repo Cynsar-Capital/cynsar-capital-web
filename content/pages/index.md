@@ -25,7 +25,7 @@ sections:
 
 
       So we are no longer taking any enquiries and please forward your
-      investment proposal if you have any to someone who an invest !
+      investment proposal if you have any to someone who can invest !
 
 
       Thanks
@@ -37,7 +37,7 @@ sections:
       is any
 
 
-      Thanks 
+      Thanks
     styles:
       self:
         height: auto
