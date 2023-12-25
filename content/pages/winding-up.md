@@ -11,9 +11,32 @@ sections:
     colors: colors-d
     variant: variant-a
     title: We are going offline ...
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >+
+      ok !
+
+
+
+
+      So we never invested and never lost a single dime but why we started this 
+
+
+
+      1.  We were clueless and not know what to do with our lives.
+
+
+      2.  Like the rest of the world ....
+
+
+
+
+      So we are no longer taking any enquiries and please forward your
+      investment proposal if you have any to someone who an invest !
+
+
+
+
+      Thanks
+
     styles:
       self:
         height: auto
